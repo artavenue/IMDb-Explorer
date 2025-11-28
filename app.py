@@ -139,7 +139,6 @@ st.sidebar.markdown("""
 * 🍿 **Movie Explorer**: Find hidden gems.
 * 📺 **TV Series Analyzer**: Heatmaps & Trends.
 
-<small>Created by Robert Mischuda</small>
 """, unsafe_allow_html=True)
 # Sidebar Navigation
 mode = st.sidebar.radio(
